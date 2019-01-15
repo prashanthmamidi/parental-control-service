@@ -1,4 +1,5 @@
-#Parental Control Service
+
+##Parental Control Service
 
 ### Setup 
 - Java 8
@@ -6,7 +7,7 @@
 
 ### Running Locally
 
-- clone the project from `github url`
+- clone the project from `git clone git@github.com:prashanthmamidi/parental-control-service.git`
 - run 
 ```
 ./gradlew clean build
